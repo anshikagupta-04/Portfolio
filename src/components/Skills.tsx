@@ -2,7 +2,9 @@ import React from 'react';
 import IonIcon from '@reacticons/ionicons';
 import './style.css'
 import mongodb from '../assets/MongoDB.svg';
-import express from '../assets/expressjs-icon.svg';
+import express from '../assets/expressjs-icon.svg'
+import tailwind from '../assets/tailwindcss-mark.d52e9897.svg'
+import java from '../assets/java-icon.svg'
 
 const About: React.FC = () => {
   return (
@@ -44,8 +46,12 @@ const About: React.FC = () => {
           <h3 className="text-2xl font-light">Express.js</h3>
         </div>
         <div className="flex items-center space-x-2">
-          <IonIcon name="git-branch-outline" className="text-lg text-gray-700" />
-          <h3 className="text-2xl font-light">Doobie</h3>
+          <img src={tailwind} className='w-5' />
+          <h3 className="text-2xl font-light">Tailwind CSS</h3>
+        </div>
+        <div className="flex items-center space-x-2">
+          <img src={java} className='w-5' />
+          <h3 className="text-2xl font-light">Java</h3>
         </div>
         <div className="flex items-center space-x-2">
           <IonIcon name="logo-github" className="text-lg text-black" />
