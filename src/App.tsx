@@ -6,6 +6,7 @@ import Skills from './components/Skills'
 import Experience from './components/Experience'
 import CanvasCursor from './components/CanvasCursor'
 import Contact from './components/Contact'
+import Project from './components/Project'
 // import Portfolio from './components/Portfolio'
 
 
@@ -21,6 +22,7 @@ function App() {
           <Landing />
           <About />
           <Skills />
+          <Project/>
           <Experience/>
           <Contact/>
         </div>

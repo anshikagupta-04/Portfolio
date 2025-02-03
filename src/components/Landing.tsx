@@ -1,6 +1,7 @@
 import React from 'react';
 import './style.css'
 import girl from '../assets/girl.gif';
+// import Project from './Project';
 
 
 const Landing: React.FC = () => {

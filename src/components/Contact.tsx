@@ -9,8 +9,8 @@ const Contact: React.FC = () => {
             <h1 className="absolute text-8xl font-black text-[rgba(0, 0, 0, 0.08)] opacity-10 bottom-35 -z-10 lg:block md:hidden hidden">Contact</h1>
             <div className="text-left">
                 <div className="pt-5">
-                    <h2 className="mb-5">Want to connect or want to have a chat?</h2>
-                    <ul className="social-links list-unstyled mt-4">
+                    <h2 className="mb-5 text-xl">Want to connect or want to have a chat?</h2>
+                    <ul className="social-links list-unstyled mt-4 text-xl">
                         <li><a href="mailto:anshikaguptaai22@gmail.con">
                             <IonIcon name="mail-outline" />
                         </a></li>

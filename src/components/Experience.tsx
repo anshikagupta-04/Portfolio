@@ -8,11 +8,11 @@ const Experience: React.FC = () => {
             <h1 className="absolute text-8xl font-black text-[rgba(0, 0, 0, 0.08)] opacity-10 top-0 -z-10 lg:block md:hidden hidden">Profile</h1>
             <div className="row d-flex">
                 <div className="col-md-10">
-                    <div className="mt-3">
+                    <div className="mt-3 text-lg">
                         <div className="py-4">
                             <div className="desc">
-                                <h4 className='text-lg'>Frontend Developer</h4>
-                                <p className='text-black mb-2'>To-Let Globe</p>
+                                <h4 className='text-xl'>Frontend Developer Intern</h4>
+                                <p className='text-black mb-2 text-lg'>To-Let Globe</p>
                                 <p>• Collaborated on developing and enhancing user interfaces for web applications.</p>
                                     <p>• Gained hands-on experience with React, Tailwind CSS.</p>
                                    <p> • Received recognition as Intern of the Week for outstanding performance and contributions.</p>
@@ -24,7 +24,7 @@ const Experience: React.FC = () => {
 
                         <div className="py-4">
                             <div className="desc">
-                                <h4 className='text-lg mb-2'>Pratishruti'24 Website</h4>
+                                <h4 className='text-xl mb-2'>Pratishruti'24 Website</h4>
                                 <p>• Worked on designing and developing the website. It is developed using React.
                                 </p>
                             </div>
@@ -33,7 +33,7 @@ const Experience: React.FC = () => {
 
 
 
-                    <h1 className="text-6xl font-light mb-16">Education</h1>
+                    <h1 className="text-6xl font-light mb-16 mt-16">Education</h1>
                     <h1 className="absolute text-8xl font-black text-[rgba(0, 0, 0, 0.08)] opacity-10 bottom-80 -z-10 lg:block md:hidden hidden">Academics</h1>
                     <div className="py-4">
                         <div className="desc">
