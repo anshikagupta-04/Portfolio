@@ -3,7 +3,7 @@ import './style.css'
 
 const Experience: React.FC = () => {
     return (
-        <section className="mt-14 mb-14 px-6 md:px-6 w-full relative">
+        <section className="mt-16 mb-14 px-6 md:px-6 w-full relative">
             <h1 className="text-6xl font-light mb-16">Experience</h1>
             <h1 className="absolute text-8xl font-black text-[rgba(0, 0, 0, 0.08)] opacity-10 top-0 -z-10 lg:block md:hidden hidden">Profile</h1>
             <div className="row d-flex">

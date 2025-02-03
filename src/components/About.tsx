@@ -4,7 +4,7 @@ import './style.css'
 
 const About: React.FC = () => {
     return (
-        <section className="mt-14 mb-14 px-6 md:px-6 w-full">
+        <section className="mt-16 mb-14 px-6 md:px-6 w-full">
             <h4 className="text-6xl font-light mb-16">A little about me,</h4>
             <div className="flex flex-col lg:flex-row w-full justify-between">
                 <div className="lg:w-[45%]">
