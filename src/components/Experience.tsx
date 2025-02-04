@@ -25,8 +25,8 @@ const Experience: React.FC = () => {
                         <div className="py-4">
                             <div className="desc">
                                 <h4 className='text-xl mb-2'>Pratishruti'24 Website</h4>
-                                <p>• Worked on designing and developing the website. It is developed using React.
-                                </p>
+                                <p>• This is my college's annual fest official website.</p>
+                                <p>• Worked on designing and developing the website. It is developed using React.</p>
                             </div>
                         </div>
                     </div>
