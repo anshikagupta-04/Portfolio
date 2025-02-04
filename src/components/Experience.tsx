@@ -41,7 +41,7 @@ const Experience: React.FC = () => {
                             <p>Shri Ramdeobaba College of Engineering and Management, Nagpur</p>
                         </div>
                         <div>
-                            <p>2013 - 2014</p>
+                            <p>2022 - 2026</p>
                         </div>
                     </div>
 
